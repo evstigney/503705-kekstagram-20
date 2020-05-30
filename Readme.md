@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Василиса Варич](https://up.htmlacademy.ru/javascript/20/user/503705).
-* Наставник: `Неизвестно`.
+* Наставник: [Елена Валеева](https://htmlacademy.ru/profile/nikkie8).
 
 ---
 
